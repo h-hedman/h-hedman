@@ -1,19 +1,14 @@
 ---
 
 ---
-
-
-
 ```r 
-Welcome to Hayden Hedman's GitHub!
+Welcome to Hayden's Git!
 ```
-
-
 
 <br>
 
 
-My scientific curiosity has landed provided me with a diverse portfolio, ranging from working with chicken-farming families in rural Ecuador to supporting large biotechnology and pharmaceutical clients with various epidemiological analyses. Here, you will find source code for modelling, report automation, and general programming. 
+I apply data science and epidemiological methodologies to address challenges in healthcare. My scientific curiosity has landed provided me with a diverse portfolio, ranging from working with chicken-farming families in rural Ecuador to supporting large biotechnology and pharmaceutical clients with various epidemiological analyses. Here, you will find source code for modelling, report automation, and general programming. 
 
 
 
