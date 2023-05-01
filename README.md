@@ -18,10 +18,10 @@ I'm Hayden, and I apply data science and epidemiological methodologies to addres
 
 ---
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=h-hedman&layout=compact&theme=synthwave&show_icons=true)](https://github.com/h-hedman/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=h-hedman&layout=compact&theme=algolia&show_icons=true)](https://github.com/h-hedman/github-readme-stats)
 
 <!-- &title_color=#2DE9FF&icon_color=2DE9FF&text_color=2DE9FF&bg_color=FFFFFF ---> 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-hedman&layout=compact&theme=synthwave" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-hedman&layout=compact&theme=algolia" /> -->
 
 
 
