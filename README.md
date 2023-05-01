@@ -8,7 +8,6 @@ I'm Hayden, and I apply data science and epidemiological methodologies to addres
 
 <br>
 
-<br>
 
 <p align="center">
 
