@@ -4,7 +4,7 @@
 Welcome to Hayden's Git!
 
 
-I'm Hayden, and I apply data science and epidemiological methodologies to address challenges in healthcare. Population health is complex in nature. I apply data science and epidemiological methodologies to address challenges in healthcare. My scientific curiosity has helped me land a diverse portfolio, ranging from working with poultry-farming communities in rural Ecuador to supporting large biotechnology and pharmaceutical clients with various epidemiological analyses. Here, you will find source code for modelling, report automation, and general programming. 
+I'm Hayden, and I apply data science and epidemiological methodologies to address challenges in healthcare. My scientific curiosity has helped me land a diverse portfolio, ranging from working with poultry-farming communities in rural Ecuador to supporting large biotechnology and pharmaceutical clients with various epidemiological analyses. Here, you will find source code for modelling, report automation, and general programming. 
 
 <br>
 
