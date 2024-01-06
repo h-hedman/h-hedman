@@ -9,11 +9,7 @@ I'm Hayden, and I apply data science and epidemiological methodologies to addres
 <br>
 
 
-<p align="center">
 
-[![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://www.haydenhedman.com/)](https://www.haydenhedman.com/) 
-[![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://https://www.linkedin.com/in/hayden-hedman/)](https://www.linkedin.com/in/hayden-hedman/) 
-</p>
 
 ---
 
