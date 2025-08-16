@@ -1,10 +1,10 @@
 # Hayden Hedman
 
 **Data Scientist, PhD**  
-I apply **causal inference, forecasting, and experimental methods** to uncover insights and support decision-making.  
-This profile highlights applied projects in **impact evaluation, product analytics, and statistical modeling**.  
+I apply causal inference, forecasting, and experimental methods to uncover insights and support decision-making.  
+This profile highlights applied projects in impact evaluation, product analytics, and statistical modeling.  
 
-🔗 Explore my [portfolio site](https://h-hedman.github.io) for a streamlined overview.
+Explore my [portfolio site](https://h-hedman.github.io) for a streamlined overview.
 
 ---
 
